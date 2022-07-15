@@ -28,7 +28,7 @@ go install && \
 snyk test
 ```
 
-## Screenshots
+## Screenshots - test
 
 The following screenshot demonstrates the extra value provided when scanning a
 project using the Snyk CLI tool
